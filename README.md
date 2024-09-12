@@ -1,2 +1,2 @@
-# javascript-100
+<<<<<<< HEAD
 100 Proyectos de Vanilla JavaScript
